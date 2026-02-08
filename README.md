@@ -4,7 +4,7 @@ Scratchattach configured to match -SmartGiraffe-'s needs
 ---
 
 ## Getting started with *json_db*
-```
+```python
 from json_db import JSONDatabase
 
 db=JSONDatabase("filename")
