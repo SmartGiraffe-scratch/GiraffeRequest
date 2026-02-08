@@ -13,4 +13,5 @@ print(db.read("key", "parent")) #returns string: "worth"
 print(db.get_keys("parent")) #returns list of strings: ["key"]
 ```
 `parent` seperates with `.` meaning you can get structures like this `parent.under`
+
 ---
